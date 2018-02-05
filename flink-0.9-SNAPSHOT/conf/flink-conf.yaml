@@ -78,7 +78,7 @@ taskmanager.network.numberOfBuffers: 4000
 #
 taskmanager.tmp.dirs: /tmp/data/1
 
-taskmanager.checkpoint.dir: hdfs://cloud-11:45010/checkpoint/
+taskmanager.checkpoint.dir: hdfs://localhost:45010/checkpoint/
 
 # Path to the Hadoop configuration directory.
 #
